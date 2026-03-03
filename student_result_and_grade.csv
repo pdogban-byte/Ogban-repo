@@ -1,0 +1,151 @@
+student_id,course_title,course_code,total_quiz_score,test_score,overall_total_score,grade,Certification,timestamp,remark,recommendation
+SID-1000,Introduction to Computer Science,CS101,15,26,41,D,Not Certified,2024-03-15,DROPPED OUT,Retake Introduction to Computer Science to improve foundations.
+SID-1000,Technical Writing,ENG303,26,55,81,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1000,Business Management,BUS505,35,46,81,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1001,Advanced Mathematics,MATH202,37,37,74,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1001,Introduction to Computer Science,CS101,30,54,84,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1001,Business Management,BUS505,9,32,41,D,Not Certified,2024-03-15,DROPPED OUT,Retake Business Management to improve foundations.
+SID-1002,Physics for Engineering,PHY404,25,55,80,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1002,Introduction to Computer Science,CS101,26,59,85,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1002,Advanced Mathematics,MATH202,32,35,67,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1003,Business Management,BUS505,29,38,67,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1003,Advanced Mathematics,MATH202,12,23,35,F,Not Certified,2024-03-15,DROPPED OUT,Retake Advanced Mathematics to improve foundations.
+SID-1003,Physics for Engineering,PHY404,10,2,12,F,Not Certified,2024-03-15,DROPPED OUT,Retake Physics for Engineering to improve foundations.
+SID-1004,Introduction to Computer Science,CS101,30,59,89,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1004,Business Management,BUS505,26,60,86,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1004,Advanced Mathematics,MATH202,25,39,64,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1005,Business Management,BUS505,14,1,15,F,Not Certified,2024-03-15,DROPPED OUT,Retake Business Management to improve foundations.
+SID-1005,Advanced Mathematics,MATH202,26,43,69,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1005,Introduction to Computer Science,CS101,33,53,86,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1006,Advanced Mathematics,MATH202,27,39,66,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1006,Technical Writing,ENG303,30,54,84,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1006,Introduction to Computer Science,CS101,13,13,26,F,Not Certified,2024-03-15,DROPPED OUT,Retake Introduction to Computer Science to improve foundations.
+SID-1007,Advanced Mathematics,MATH202,27,32,59,C,Certified,2024-03-15,COMPLETED,Fair. Re-attempt weak topic quizzes.
+SID-1007,Business Management,BUS505,34,57,91,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1007,Introduction to Computer Science,CS101,9,8,17,F,Not Certified,2024-03-15,DROPPED OUT,Retake Introduction to Computer Science to improve foundations.
+SID-1008,Physics for Engineering,PHY404,27,32,59,C,Certified,2024-03-15,COMPLETED,Fair. Re-attempt weak topic quizzes.
+SID-1008,Introduction to Computer Science,CS101,32,51,83,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1008,Technical Writing,ENG303,26,45,71,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1009,Technical Writing,ENG303,7,34,41,D,Not Certified,2024-03-15,DROPPED OUT,Retake Technical Writing to improve foundations.
+SID-1009,Advanced Mathematics,MATH202,28,30,58,C,Certified,2024-03-15,COMPLETED,Fair. Re-attempt weak topic quizzes.
+SID-1009,Introduction to Computer Science,CS101,29,51,80,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1010,Technical Writing,ENG303,25,55,80,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1010,Physics for Engineering,PHY404,38,45,83,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1010,Introduction to Computer Science,CS101,27,40,67,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1011,Business Management,BUS505,15,4,19,F,Not Certified,2024-03-15,DROPPED OUT,Retake Business Management to improve foundations.
+SID-1011,Introduction to Computer Science,CS101,30,35,65,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1011,Physics for Engineering,PHY404,30,60,90,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1012,Advanced Mathematics,MATH202,17,31,48,D,Not Certified,2024-03-15,DROPPED OUT,Retake Advanced Mathematics to improve foundations.
+SID-1012,Introduction to Computer Science,CS101,26,36,62,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1012,Technical Writing,ENG303,28,58,86,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1013,Technical Writing,ENG303,26,55,81,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1013,Business Management,BUS505,25,47,72,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1013,Physics for Engineering,PHY404,31,40,71,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1014,Technical Writing,ENG303,32,42,74,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1014,Introduction to Computer Science,CS101,27,33,60,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1014,Physics for Engineering,PHY404,31,58,89,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1015,Introduction to Computer Science,CS101,33,31,64,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1015,Physics for Engineering,PHY404,33,51,84,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1015,Advanced Mathematics,MATH202,33,45,78,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1016,Advanced Mathematics,MATH202,28,34,62,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1016,Physics for Engineering,PHY404,32,42,74,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1016,Technical Writing,ENG303,26,34,60,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1017,Introduction to Computer Science,CS101,29,50,79,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1017,Advanced Mathematics,MATH202,26,52,78,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1017,Business Management,BUS505,27,57,84,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1018,Physics for Engineering,PHY404,9,26,35,F,Not Certified,2024-03-15,DROPPED OUT,Retake Physics for Engineering to improve foundations.
+SID-1018,Advanced Mathematics,MATH202,26,35,61,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1018,Business Management,BUS505,24,46,70,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1019,Physics for Engineering,PHY404,14,22,36,F,Not Certified,2024-03-15,DROPPED OUT,Retake Physics for Engineering to improve foundations.
+SID-1019,Advanced Mathematics,MATH202,9,13,22,F,Not Certified,2024-03-15,DROPPED OUT,Retake Advanced Mathematics to improve foundations.
+SID-1019,Introduction to Computer Science,CS101,29,52,81,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1020,Technical Writing,ENG303,32,48,80,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1020,Advanced Mathematics,MATH202,29,50,79,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1020,Business Management,BUS505,28,51,79,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1021,Technical Writing,ENG303,10,21,31,F,Not Certified,2024-03-15,DROPPED OUT,Retake Technical Writing to improve foundations.
+SID-1021,Physics for Engineering,PHY404,33,34,67,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1021,Business Management,BUS505,36,55,91,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1022,Physics for Engineering,PHY404,31,45,76,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1022,Introduction to Computer Science,CS101,30,43,73,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1022,Technical Writing,ENG303,31,44,75,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1023,Business Management,BUS505,16,25,41,D,Not Certified,2024-03-15,DROPPED OUT,Retake Business Management to improve foundations.
+SID-1023,Technical Writing,ENG303,30,30,60,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1023,Advanced Mathematics,MATH202,31,35,66,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1024,Technical Writing,ENG303,28,35,63,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1024,Advanced Mathematics,MATH202,29,42,71,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1024,Business Management,BUS505,19,28,47,D,Not Certified,2024-03-15,DROPPED OUT,Retake Business Management to improve foundations.
+SID-1025,Introduction to Computer Science,CS101,34,49,83,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1025,Business Management,BUS505,29,54,83,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1025,Technical Writing,ENG303,6,15,21,F,Not Certified,2024-03-15,DROPPED OUT,Retake Technical Writing to improve foundations.
+SID-1026,Technical Writing,ENG303,26,50,76,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1026,Introduction to Computer Science,CS101,9,20,29,F,Not Certified,2024-03-15,DROPPED OUT,Retake Introduction to Computer Science to improve foundations.
+SID-1026,Advanced Mathematics,MATH202,17,17,34,F,Not Certified,2024-03-15,DROPPED OUT,Retake Advanced Mathematics to improve foundations.
+SID-1027,Physics for Engineering,PHY404,32,55,87,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1027,Business Management,BUS505,28,49,77,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1027,Technical Writing,ENG303,34,38,72,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1028,Business Management,BUS505,38,41,79,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1028,Advanced Mathematics,MATH202,37,54,91,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1028,Physics for Engineering,PHY404,12,29,41,D,Not Certified,2024-03-15,DROPPED OUT,Retake Physics for Engineering to improve foundations.
+SID-1029,Business Management,BUS505,30,42,72,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1029,Introduction to Computer Science,CS101,30,57,87,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1029,Technical Writing,ENG303,28,56,84,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1030,Technical Writing,ENG303,36,38,74,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1030,Physics for Engineering,PHY404,27,59,86,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1030,Business Management,BUS505,35,59,94,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1031,Business Management,BUS505,35,42,77,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1031,Introduction to Computer Science,CS101,32,52,84,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1031,Technical Writing,ENG303,16,7,23,F,Not Certified,2024-03-15,DROPPED OUT,Retake Technical Writing to improve foundations.
+SID-1032,Advanced Mathematics,MATH202,34,30,64,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1032,Introduction to Computer Science,CS101,35,56,91,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1032,Physics for Engineering,PHY404,32,37,69,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1033,Introduction to Computer Science,CS101,32,49,81,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1033,Physics for Engineering,PHY404,35,35,70,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1033,Advanced Mathematics,MATH202,27,30,57,C,Certified,2024-03-15,COMPLETED,Fair. Re-attempt weak topic quizzes.
+SID-1034,Business Management,BUS505,29,32,61,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1034,Technical Writing,ENG303,16,5,21,F,Not Certified,2024-03-15,DROPPED OUT,Retake Technical Writing to improve foundations.
+SID-1034,Advanced Mathematics,MATH202,33,47,80,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1035,Technical Writing,ENG303,17,7,24,F,Not Certified,2024-03-15,DROPPED OUT,Retake Technical Writing to improve foundations.
+SID-1035,Business Management,BUS505,10,12,22,F,Not Certified,2024-03-15,DROPPED OUT,Retake Business Management to improve foundations.
+SID-1035,Introduction to Computer Science,CS101,32,56,88,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1036,Physics for Engineering,PHY404,25,31,56,C,Certified,2024-03-15,COMPLETED,Fair. Re-attempt weak topic quizzes.
+SID-1036,Advanced Mathematics,MATH202,33,40,73,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1036,Business Management,BUS505,34,59,93,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1037,Technical Writing,ENG303,34,35,69,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1037,Business Management,BUS505,19,35,54,C,Not Certified,2024-03-15,DROPPED OUT,Fair. Re-attempt weak topic quizzes.
+SID-1037,Introduction to Computer Science,CS101,30,36,66,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1038,Technical Writing,ENG303,28,57,85,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1038,Advanced Mathematics,MATH202,28,51,79,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1038,Business Management,BUS505,31,48,79,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1039,Physics for Engineering,PHY404,34,56,90,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1039,Technical Writing,ENG303,31,50,81,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1039,Advanced Mathematics,MATH202,12,25,37,F,Not Certified,2024-03-15,DROPPED OUT,Retake Advanced Mathematics to improve foundations.
+SID-1040,Technical Writing,ENG303,36,34,70,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1040,Introduction to Computer Science,CS101,35,35,70,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1040,Physics for Engineering,PHY404,27,41,68,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1041,Advanced Mathematics,MATH202,8,33,41,D,Not Certified,2024-03-15,DROPPED OUT,Retake Advanced Mathematics to improve foundations.
+SID-1041,Physics for Engineering,PHY404,36,42,78,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1041,Business Management,BUS505,29,32,61,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1042,Business Management,BUS505,10,30,40,D,Not Certified,2024-03-15,DROPPED OUT,Retake Business Management to improve foundations.
+SID-1042,Advanced Mathematics,MATH202,32,48,80,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1042,Technical Writing,ENG303,14,33,47,D,Not Certified,2024-03-15,DROPPED OUT,Retake Technical Writing to improve foundations.
+SID-1043,Advanced Mathematics,MATH202,32,56,88,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1043,Technical Writing,ENG303,12,14,26,F,Not Certified,2024-03-15,DROPPED OUT,Retake Technical Writing to improve foundations.
+SID-1043,Introduction to Computer Science,CS101,28,45,73,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1044,Advanced Mathematics,MATH202,33,41,74,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1044,Technical Writing,ENG303,12,30,42,D,Not Certified,2024-03-15,DROPPED OUT,Retake Technical Writing to improve foundations.
+SID-1044,Introduction to Computer Science,CS101,32,46,78,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1045,Business Management,BUS505,30,38,68,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1045,Advanced Mathematics,MATH202,30,38,68,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1045,Physics for Engineering,PHY404,35,36,71,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1046,Physics for Engineering,PHY404,32,32,64,B,Certified,2024-03-15,COMPLETED,Good performance. Review advanced topics.
+SID-1046,Business Management,BUS505,31,52,83,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1046,Advanced Mathematics,MATH202,10,10,20,F,Not Certified,2024-03-15,DROPPED OUT,Retake Advanced Mathematics to improve foundations.
+SID-1047,Technical Writing,ENG303,28,48,76,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1047,Physics for Engineering,PHY404,32,49,81,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1047,Introduction to Computer Science,CS101,30,40,70,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1048,Business Management,BUS505,33,54,87,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1048,Physics for Engineering,PHY404,9,20,29,F,Not Certified,2024-03-15,DROPPED OUT,Retake Physics for Engineering to improve foundations.
+SID-1048,Technical Writing,ENG303,35,47,82,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.
+SID-1049,Business Management,BUS505,9,15,24,F,Not Certified,2024-03-15,DROPPED OUT,Retake Business Management to improve foundations.
+SID-1049,Physics for Engineering,PHY404,19,5,24,F,Not Certified,2024-03-15,DROPPED OUT,Retake Physics for Engineering to improve foundations.
+SID-1049,Introduction to Computer Science,CS101,35,35,70,A,Certified,2024-03-15,COMPLETED,Excellent! Ready for the next level.

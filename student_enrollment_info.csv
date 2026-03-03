@@ -1,0 +1,151 @@
+student_name,student_id,school_name,location,geopolitical_zone,age,education_level,course_title,course_code,registration_date,completion_date,subscription_plan
+Brian Gonzalez,SID-1000,Federal Polytechnic,Ilaro,South West,22,Tertiary,Introduction to Computer Science,CS101,4/25/2023,,Premium
+Brian Gonzalez,SID-1000,Federal Polytechnic,Ilaro,South West,22,Tertiary,Technical Writing,ENG303,8/3/2023,9/20/2023,Premium
+Brian Gonzalez,SID-1000,Federal Polytechnic,Ilaro,South West,22,Tertiary,Business Management,BUS505,5/16/2023,7/8/2023,Premium
+Donald Lee,SID-1001,Christ the King College,Onitsha,South East,16,Secondary,Advanced Mathematics,MATH202,5/23/2023,7/18/2023,Basic
+Donald Lee,SID-1001,Christ the King College,Onitsha,South East,16,Secondary,Introduction to Computer Science,CS101,10/13/2023,11/22/2023,Premium
+Donald Lee,SID-1001,Christ the King College,Onitsha,South East,16,Secondary,Business Management,BUS505,8/23/2023,,Basic
+Barbara Sanchez,SID-1002,Auchi Polytechnic,Edo,South South,22,Tertiary,Physics for Engineering,PHY404,7/15/2023,8/28/2023,Premium
+Barbara Sanchez,SID-1002,Auchi Polytechnic,Edo,South South,22,Tertiary,Introduction to Computer Science,CS101,5/15/2023,7/8/2023,Basic
+Barbara Sanchez,SID-1002,Auchi Polytechnic,Edo,South South,22,Tertiary,Advanced Mathematics,MATH202,6/15/2023,7/18/2023,Premium
+Christopher Jackson,SID-1003,University of Nigeria,Enugu,South East,22,Tertiary,Business Management,BUS505,9/28/2023,11/10/2023,Premium
+Christopher Jackson,SID-1003,University of Nigeria,Enugu,South East,22,Tertiary,Advanced Mathematics,MATH202,6/23/2023,,Basic
+Christopher Jackson,SID-1003,University of Nigeria,Enugu,South East,22,Tertiary,Physics for Engineering,PHY404,10/4/2023,,Basic
+Melissa Hall,SID-1004,Federal Polytechnic,Nekede,South East,22,Tertiary,Introduction to Computer Science,CS101,6/23/2023,7/26/2023,Basic
+Melissa Hall,SID-1004,Federal Polytechnic,Nekede,South East,22,Tertiary,Business Management,BUS505,10/4/2023,11/5/2023,Premium
+Melissa Hall,SID-1004,Federal Polytechnic,Nekede,South East,22,Tertiary,Advanced Mathematics,MATH202,5/27/2023,7/26/2023,Premium
+Kenneth Young,SID-1005,Obafemi Awolowo University,Osun,South West,19,Tertiary,Business Management,BUS505,9/18/2023,,Premium
+Kenneth Young,SID-1005,Obafemi Awolowo University,Osun,South West,19,Tertiary,Advanced Mathematics,MATH202,5/14/2023,7/5/2023,Premium
+Kenneth Young,SID-1005,Obafemi Awolowo University,Osun,South West,19,Tertiary,Introduction to Computer Science,CS101,9/17/2023,11/15/2023,Basic
+Andrew Thomas,SID-1006,University of Lagos,Lagos,South West,22,Tertiary,Advanced Mathematics,MATH202,2/24/2023,3/30/2023,Premium
+Andrew Thomas,SID-1006,University of Lagos,Lagos,South West,22,Tertiary,Technical Writing,ENG303,1/2/2023,2/5/2023,Premium
+Andrew Thomas,SID-1006,University of Lagos,Lagos,South West,22,Tertiary,Introduction to Computer Science,CS101,10/10/2023,,Premium
+Christopher Harris,SID-1007,Federal Polytechnic,Ilaro,South West,21,Tertiary,Advanced Mathematics,MATH202,4/1/2023,5/1/2023,Basic
+Christopher Harris,SID-1007,Federal Polytechnic,Ilaro,South West,21,Tertiary,Business Management,BUS505,8/24/2023,10/19/2023,Premium
+Christopher Harris,SID-1007,Federal Polytechnic,Ilaro,South West,21,Tertiary,Introduction to Computer Science,CS101,1/15/2023,,Premium
+Sarah Sanchez,SID-1008,Queen's College,Lagos,South West,12,Secondary,Physics for Engineering,PHY404,10/3/2023,12/2/2023,Premium
+Sarah Sanchez,SID-1008,Queen's College,Lagos,South West,12,Secondary,Introduction to Computer Science,CS101,6/17/2023,7/26/2023,Basic
+Sarah Sanchez,SID-1008,Queen's College,Lagos,South West,12,Secondary,Technical Writing,ENG303,10/24/2023,12/3/2023,Premium
+Lisa Davis,SID-1009,University of Ibadan,Oyo,South West,24,Tertiary,Technical Writing,ENG303,3/17/2023,,Basic
+Lisa Davis,SID-1009,University of Ibadan,Oyo,South West,24,Tertiary,Advanced Mathematics,MATH202,2/24/2023,4/2/2023,Basic
+Lisa Davis,SID-1009,University of Ibadan,Oyo,South West,24,Tertiary,Introduction to Computer Science,CS101,8/15/2023,10/7/2023,Basic
+Andrew Gonzalez,SID-1010,University of Nigeria,Enugu,South East,22,Tertiary,Technical Writing,ENG303,5/27/2023,7/6/2023,Premium
+Andrew Gonzalez,SID-1010,University of Nigeria,Enugu,South East,22,Tertiary,Physics for Engineering,PHY404,8/4/2023,9/27/2023,Basic
+Andrew Gonzalez,SID-1010,University of Nigeria,Enugu,South East,22,Tertiary,Introduction to Computer Science,CS101,10/7/2023,12/4/2023,Basic
+Donna Wright,SID-1011,Government College,Katsina,North West,18,Secondary,Business Management,BUS505,8/8/2023,,Basic
+Donna Wright,SID-1011,Government College,Katsina,North West,18,Secondary,Introduction to Computer Science,CS101,1/10/2023,2/10/2023,Basic
+Donna Wright,SID-1011,Government College,Katsina,North West,18,Secondary,Physics for Engineering,PHY404,2/28/2023,4/5/2023,Basic
+Barbara Baker,SID-1012,Queen's College,Lagos,South West,18,Secondary,Advanced Mathematics,MATH202,5/5/2023,,Premium
+Barbara Baker,SID-1012,Queen's College,Lagos,South West,18,Secondary,Introduction to Computer Science,CS101,8/4/2023,9/6/2023,Premium
+Barbara Baker,SID-1012,Queen's College,Lagos,South West,18,Secondary,Technical Writing,ENG303,5/18/2023,6/24/2023,Premium
+Deborah Scott,SID-1013,Government College,Ibadan,South West,16,Secondary,Technical Writing,ENG303,1/6/2023,2/11/2023,Basic
+Deborah Scott,SID-1013,Government College,Ibadan,South West,16,Secondary,Business Management,BUS505,6/6/2023,7/17/2023,Premium
+Deborah Scott,SID-1013,Government College,Ibadan,South West,16,Secondary,Physics for Engineering,PHY404,10/2/2023,11/23/2023,Basic
+Mary Campbell,SID-1014,Bayero University,Kano,North West,20,Tertiary,Technical Writing,ENG303,10/11/2023,12/10/2023,Basic
+Mary Campbell,SID-1014,Bayero University,Kano,North West,20,Tertiary,Introduction to Computer Science,CS101,7/25/2023,9/11/2023,Premium
+Mary Campbell,SID-1014,Bayero University,Kano,North West,20,Tertiary,Physics for Engineering,PHY404,8/19/2023,9/27/2023,Premium
+Sandra Rivera,SID-1015,Vivian Fowler Memorial,Lagos,South West,13,Secondary,Introduction to Computer Science,CS101,8/29/2023,10/5/2023,Basic
+Sandra Rivera,SID-1015,Vivian Fowler Memorial,Lagos,South West,13,Secondary,Physics for Engineering,PHY404,3/18/2023,5/13/2023,Basic
+Sandra Rivera,SID-1015,Vivian Fowler Memorial,Lagos,South West,13,Secondary,Advanced Mathematics,MATH202,9/10/2023,10/29/2023,Premium
+Susan Lewis,SID-1016,University of Benin,Edo,South South,21,Tertiary,Advanced Mathematics,MATH202,8/15/2023,9/19/2023,Premium
+Susan Lewis,SID-1016,University of Benin,Edo,South South,21,Tertiary,Physics for Engineering,PHY404,7/25/2023,9/10/2023,Premium
+Susan Lewis,SID-1016,University of Benin,Edo,South South,21,Tertiary,Technical Writing,ENG303,9/13/2023,11/6/2023,Basic
+Charles Hall,SID-1017,Obafemi Awolowo University,Osun,South West,20,Tertiary,Introduction to Computer Science,CS101,8/25/2023,10/14/2023,Basic
+Charles Hall,SID-1017,Obafemi Awolowo University,Osun,South West,20,Tertiary,Advanced Mathematics,MATH202,3/11/2023,4/18/2023,Basic
+Charles Hall,SID-1017,Obafemi Awolowo University,Osun,South West,20,Tertiary,Business Management,BUS505,10/3/2023,11/12/2023,Premium
+John Clark,SID-1018,Lagos State University,Lagos,South West,24,Tertiary,Physics for Engineering,PHY404,1/19/2023,,Basic
+John Clark,SID-1018,Lagos State University,Lagos,South West,24,Tertiary,Advanced Mathematics,MATH202,5/16/2023,7/7/2023,Basic
+John Clark,SID-1018,Lagos State University,Lagos,South West,24,Tertiary,Business Management,BUS505,5/28/2023,7/20/2023,Basic
+Carol Young,SID-1019,Kings College,Lagos,South West,15,Secondary,Physics for Engineering,PHY404,3/31/2023,,Premium
+Carol Young,SID-1019,Kings College,Lagos,South West,15,Secondary,Advanced Mathematics,MATH202,3/22/2023,,Premium
+Carol Young,SID-1019,Kings College,Lagos,South West,15,Secondary,Introduction to Computer Science,CS101,6/1/2023,7/10/2023,Basic
+William Green,SID-1020,Kings College,Lagos,South West,15,Secondary,Technical Writing,ENG303,4/8/2023,5/29/2023,Premium
+William Green,SID-1020,Kings College,Lagos,South West,15,Secondary,Advanced Mathematics,MATH202,6/1/2023,7/14/2023,Basic
+William Green,SID-1020,Kings College,Lagos,South West,15,Secondary,Business Management,BUS505,6/23/2023,8/6/2023,Premium
+Karen Thomas,SID-1021,Federal Polytechnic,Ilaro,South West,19,Tertiary,Technical Writing,ENG303,7/10/2023,,Premium
+Karen Thomas,SID-1021,Federal Polytechnic,Ilaro,South West,19,Tertiary,Physics for Engineering,PHY404,1/20/2023,3/6/2023,Premium
+Karen Thomas,SID-1021,Federal Polytechnic,Ilaro,South West,19,Tertiary,Business Management,BUS505,9/8/2023,11/7/2023,Premium
+Thomas Nelson,SID-1022,Federal Government Academy,Suleja,North Central,15,Secondary,Physics for Engineering,PHY404,4/19/2023,6/7/2023,Premium
+Thomas Nelson,SID-1022,Federal Government Academy,Suleja,North Central,15,Secondary,Introduction to Computer Science,CS101,3/17/2023,5/5/2023,Basic
+Thomas Nelson,SID-1022,Federal Government Academy,Suleja,North Central,15,Secondary,Technical Writing,ENG303,3/31/2023,5/4/2023,Premium
+Elizabeth Rivera,SID-1023,University of Ilorin,Kwara,North Central,25,Tertiary,Business Management,BUS505,1/16/2023,,Premium
+Elizabeth Rivera,SID-1023,University of Ilorin,Kwara,North Central,25,Tertiary,Technical Writing,ENG303,10/8/2023,11/19/2023,Premium
+Elizabeth Rivera,SID-1023,University of Ilorin,Kwara,North Central,25,Tertiary,Advanced Mathematics,MATH202,8/20/2023,10/2/2023,Basic
+Margaret Harris,SID-1024,Queen's College,Lagos,South West,18,Secondary,Technical Writing,ENG303,1/31/2023,3/19/2023,Premium
+Margaret Harris,SID-1024,Queen's College,Lagos,South West,18,Secondary,Advanced Mathematics,MATH202,3/21/2023,4/27/2023,Basic
+Margaret Harris,SID-1024,Queen's College,Lagos,South West,18,Secondary,Business Management,BUS505,10/13/2023,,Basic
+John Lewis,SID-1025,Government College,Umuahia,South East,14,Secondary,Introduction to Computer Science,CS101,9/29/2023,11/11/2023,Premium
+John Lewis,SID-1025,Government College,Umuahia,South East,14,Secondary,Business Management,BUS505,8/6/2023,9/19/2023,Basic
+John Lewis,SID-1025,Government College,Umuahia,South East,14,Secondary,Technical Writing,ENG303,1/29/2023,,Basic
+Joshua Walker,SID-1026,Federal Polytechnic,Nekede,South East,25,Tertiary,Technical Writing,ENG303,1/22/2023,3/7/2023,Premium
+Joshua Walker,SID-1026,Federal Polytechnic,Nekede,South East,25,Tertiary,Introduction to Computer Science,CS101,7/5/2023,,Basic
+Joshua Walker,SID-1026,Federal Polytechnic,Nekede,South East,25,Tertiary,Advanced Mathematics,MATH202,9/19/2023,,Basic
+Donna Sanchez,SID-1027,Federal Polytechnic,Ilaro,South West,24,Tertiary,Physics for Engineering,PHY404,10/24/2023,12/22/2023,Premium
+Donna Sanchez,SID-1027,Federal Polytechnic,Ilaro,South West,24,Tertiary,Business Management,BUS505,2/7/2023,3/23/2023,Basic
+Donna Sanchez,SID-1027,Federal Polytechnic,Ilaro,South West,24,Tertiary,Technical Writing,ENG303,10/20/2023,11/29/2023,Premium
+Paul Allen,SID-1028,Ahmadu Bello University,Kaduna,North West,19,Tertiary,Business Management,BUS505,7/10/2023,8/21/2023,Premium
+Paul Allen,SID-1028,Ahmadu Bello University,Kaduna,North West,19,Tertiary,Advanced Mathematics,MATH202,3/18/2023,5/5/2023,Basic
+Paul Allen,SID-1028,Ahmadu Bello University,Kaduna,North West,19,Tertiary,Physics for Engineering,PHY404,9/27/2023,,Premium
+Brian Clark,SID-1029,Government College,Katsina,North West,13,Secondary,Business Management,BUS505,6/22/2023,8/10/2023,Premium
+Brian Clark,SID-1029,Government College,Katsina,North West,13,Secondary,Introduction to Computer Science,CS101,8/16/2023,10/9/2023,Basic
+Brian Clark,SID-1029,Government College,Katsina,North West,13,Secondary,Technical Writing,ENG303,7/15/2023,8/27/2023,Premium
+Paul Williams,SID-1030,University of Lagos,Lagos,South West,24,Tertiary,Technical Writing,ENG303,3/17/2023,4/18/2023,Basic
+Paul Williams,SID-1030,University of Lagos,Lagos,South West,24,Tertiary,Physics for Engineering,PHY404,2/20/2023,4/11/2023,Basic
+Paul Williams,SID-1030,University of Lagos,Lagos,South West,24,Tertiary,Business Management,BUS505,4/21/2023,6/7/2023,Premium
+Lisa Hall,SID-1031,University of Nigeria,Enugu,South East,19,Tertiary,Business Management,BUS505,9/21/2023,11/12/2023,Premium
+Lisa Hall,SID-1031,University of Nigeria,Enugu,South East,19,Tertiary,Introduction to Computer Science,CS101,9/17/2023,10/29/2023,Basic
+Lisa Hall,SID-1031,University of Nigeria,Enugu,South East,19,Tertiary,Technical Writing,ENG303,6/20/2023,,Basic
+Paul Hill,SID-1032,Barewa College,Zaria,North West,12,Secondary,Advanced Mathematics,MATH202,1/22/2023,3/2/2023,Premium
+Paul Hill,SID-1032,Barewa College,Zaria,North West,12,Secondary,Introduction to Computer Science,CS101,8/12/2023,10/4/2023,Premium
+Paul Hill,SID-1032,Barewa College,Zaria,North West,12,Secondary,Physics for Engineering,PHY404,5/31/2023,7/2/2023,Basic
+Kenneth Garcia,SID-1033,University of Lagos,Lagos,South West,24,Tertiary,Introduction to Computer Science,CS101,9/20/2023,11/10/2023,Premium
+Kenneth Garcia,SID-1033,University of Lagos,Lagos,South West,24,Tertiary,Physics for Engineering,PHY404,8/19/2023,9/29/2023,Basic
+Kenneth Garcia,SID-1033,University of Lagos,Lagos,South West,24,Tertiary,Advanced Mathematics,MATH202,5/14/2023,6/19/2023,Premium
+Michael Roberts,SID-1034,Christ the King College,Onitsha,South East,13,Secondary,Business Management,BUS505,3/22/2023,5/20/2023,Basic
+Michael Roberts,SID-1034,Christ the King College,Onitsha,South East,13,Secondary,Technical Writing,ENG303,10/10/2023,,Basic
+Michael Roberts,SID-1034,Christ the King College,Onitsha,South East,13,Secondary,Advanced Mathematics,MATH202,9/22/2023,11/19/2023,Premium
+Jessica Nelson,SID-1035,Auchi Polytechnic,Edo,South South,23,Tertiary,Technical Writing,ENG303,5/9/2023,,Premium
+Jessica Nelson,SID-1035,Auchi Polytechnic,Edo,South South,23,Tertiary,Business Management,BUS505,10/16/2023,,Premium
+Jessica Nelson,SID-1035,Auchi Polytechnic,Edo,South South,23,Tertiary,Introduction to Computer Science,CS101,6/4/2023,7/29/2023,Premium
+Kevin Thompson,SID-1036,University of Lagos,Lagos,South West,25,Tertiary,Physics for Engineering,PHY404,9/21/2023,10/31/2023,Premium
+Kevin Thompson,SID-1036,University of Lagos,Lagos,South West,25,Tertiary,Advanced Mathematics,MATH202,10/23/2023,11/28/2023,Premium
+Kevin Thompson,SID-1036,University of Lagos,Lagos,South West,25,Tertiary,Business Management,BUS505,5/25/2023,7/22/2023,Premium
+David Adams,SID-1037,University of Lagos,Lagos,South West,20,Tertiary,Technical Writing,ENG303,7/17/2023,9/9/2023,Basic
+David Adams,SID-1037,University of Lagos,Lagos,South West,20,Tertiary,Business Management,BUS505,1/21/2023,,Basic
+David Adams,SID-1037,University of Lagos,Lagos,South West,20,Tertiary,Introduction to Computer Science,CS101,6/22/2023,8/7/2023,Basic
+Michelle Williams,SID-1038,Kaduna Polytechnic,Kaduna,North West,21,Tertiary,Technical Writing,ENG303,1/27/2023,3/3/2023,Basic
+Michelle Williams,SID-1038,Kaduna Polytechnic,Kaduna,North West,21,Tertiary,Advanced Mathematics,MATH202,4/15/2023,6/8/2023,Premium
+Michelle Williams,SID-1038,Kaduna Polytechnic,Kaduna,North West,21,Tertiary,Business Management,BUS505,9/30/2023,11/10/2023,Basic
+Andrew Adams,SID-1039,Kaduna Polytechnic,Kaduna,North West,23,Tertiary,Physics for Engineering,PHY404,6/28/2023,8/26/2023,Premium
+Andrew Adams,SID-1039,Kaduna Polytechnic,Kaduna,North West,23,Tertiary,Technical Writing,ENG303,8/15/2023,10/7/2023,Basic
+Andrew Adams,SID-1039,Kaduna Polytechnic,Kaduna,North West,23,Tertiary,Advanced Mathematics,MATH202,4/30/2023,,Premium
+Carol Adams,SID-1040,Adesina College,Ibadan,South West,16,Secondary,Technical Writing,ENG303,10/21/2023,12/13/2023,Basic
+Carol Adams,SID-1040,Adesina College,Ibadan,South West,16,Secondary,Introduction to Computer Science,CS101,1/5/2023,2/23/2023,Premium
+Carol Adams,SID-1040,Adesina College,Ibadan,South West,16,Secondary,Physics for Engineering,PHY404,8/23/2023,10/14/2023,Premium
+Betty Carter,SID-1041,Loyola Jesuit College,Abuja,North Central,13,Secondary,Advanced Mathematics,MATH202,5/8/2023,,Basic
+Betty Carter,SID-1041,Loyola Jesuit College,Abuja,North Central,13,Secondary,Physics for Engineering,PHY404,3/23/2023,5/8/2023,Basic
+Betty Carter,SID-1041,Loyola Jesuit College,Abuja,North Central,13,Secondary,Business Management,BUS505,10/9/2023,12/2/2023,Premium
+Nancy Ramirez,SID-1042,Ahmadu Bello University,Kaduna,North West,25,Tertiary,Business Management,BUS505,10/2/2023,,Premium
+Nancy Ramirez,SID-1042,Ahmadu Bello University,Kaduna,North West,25,Tertiary,Advanced Mathematics,MATH202,1/30/2023,3/22/2023,Basic
+Nancy Ramirez,SID-1042,Ahmadu Bello University,Kaduna,North West,25,Tertiary,Technical Writing,ENG303,8/30/2023,,Premium
+Michael Smith,SID-1043,Federal Polytechnic,Nekede,South East,22,Tertiary,Advanced Mathematics,MATH202,4/2/2023,5/14/2023,Basic
+Michael Smith,SID-1043,Federal Polytechnic,Nekede,South East,22,Tertiary,Technical Writing,ENG303,5/22/2023,,Premium
+Michael Smith,SID-1043,Federal Polytechnic,Nekede,South East,22,Tertiary,Introduction to Computer Science,CS101,1/25/2023,2/25/2023,Basic
+Michael Taylor,SID-1044,Auchi Polytechnic,Edo,South South,22,Tertiary,Advanced Mathematics,MATH202,9/24/2023,11/2/2023,Basic
+Michael Taylor,SID-1044,Auchi Polytechnic,Edo,South South,22,Tertiary,Technical Writing,ENG303,7/29/2023,,Premium
+Michael Taylor,SID-1044,Auchi Polytechnic,Edo,South South,22,Tertiary,Introduction to Computer Science,CS101,5/5/2023,6/14/2023,Basic
+Joseph Allen,SID-1045,University of Ilorin,Kwara,North Central,23,Tertiary,Business Management,BUS505,4/17/2023,5/27/2023,Premium
+Joseph Allen,SID-1045,University of Ilorin,Kwara,North Central,23,Tertiary,Advanced Mathematics,MATH202,5/25/2023,7/11/2023,Premium
+Joseph Allen,SID-1045,University of Ilorin,Kwara,North Central,23,Tertiary,Physics for Engineering,PHY404,10/16/2023,12/8/2023,Premium
+Melissa King,SID-1046,Hope Waddell Training Institution,Calabar,South South,17,Secondary,Physics for Engineering,PHY404,3/28/2023,5/8/2023,Basic
+Melissa King,SID-1046,Hope Waddell Training Institution,Calabar,South South,17,Secondary,Business Management,BUS505,3/12/2023,4/18/2023,Premium
+Melissa King,SID-1046,Hope Waddell Training Institution,Calabar,South South,17,Secondary,Advanced Mathematics,MATH202,1/7/2023,,Basic
+Emily Nguyen,SID-1047,University of Ilorin,Kwara,North Central,25,Tertiary,Technical Writing,ENG303,7/11/2023,8/24/2023,Basic
+Emily Nguyen,SID-1047,University of Ilorin,Kwara,North Central,25,Tertiary,Physics for Engineering,PHY404,1/5/2023,2/6/2023,Basic
+Emily Nguyen,SID-1047,University of Ilorin,Kwara,North Central,25,Tertiary,Introduction to Computer Science,CS101,2/8/2023,3/18/2023,Premium
+Brian Torres,SID-1048,Ahmadu Bello University,Kaduna,North West,21,Tertiary,Business Management,BUS505,10/4/2023,11/27/2023,Premium
+Brian Torres,SID-1048,Ahmadu Bello University,Kaduna,North West,21,Tertiary,Physics for Engineering,PHY404,6/17/2023,,Basic
+Brian Torres,SID-1048,Ahmadu Bello University,Kaduna,North West,21,Tertiary,Technical Writing,ENG303,2/12/2023,3/26/2023,Basic
+Joseph Lewis,SID-1049,Obafemi Awolowo University,Osun,South West,19,Tertiary,Business Management,BUS505,1/14/2023,,Basic
+Joseph Lewis,SID-1049,Obafemi Awolowo University,Osun,South West,19,Tertiary,Physics for Engineering,PHY404,7/14/2023,,Basic
+Joseph Lewis,SID-1049,Obafemi Awolowo University,Osun,South West,19,Tertiary,Introduction to Computer Science,CS101,4/11/2023,5/15/2023,Basic
